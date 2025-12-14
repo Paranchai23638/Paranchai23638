@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineering student
 -------------------
 
-I'm a senior student at Chulalongkorn University, majoring in Information and Communication Engineering. I’m passionate about AI, Machine Learning, Deep Learning, software development, networking, and building practical engineering solutions. On this GitHub, I share my projects, experiments, and what I learn along the way.
+I'm a junior student at Chulalongkorn University, majoring in Information and Communication Engineering. I’m passionate about AI, Machine Learning, Deep Learning, software development, networking, and building practical engineering solutions. On this GitHub, I share my projects, experiments, and what I learn along the way.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [sinami23638@gmail.com](mailto:sinami23638@gmail.com)
